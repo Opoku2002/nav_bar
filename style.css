@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+
+.header{
+    color: black;
+    margin: 0px;
+    padding: 30px;
+    background-color: rgb(21, 21, 29);
+    
+}
+
+.nav{
+text-align: right;
+margin: 0;
+padding: 0;
+}
+
+.nav li{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+
+.nav ul li{
+    display: inline;
+    text-align: right;
+}
+
+.nav ul li a{
+    text-decoration: dashed;
+    padding: 17px;
+    text-align: left;
+}
+
+
+.nav ul li a:hover{
+    color: brown;
+    cursor: pointer;
+
+}
+.logo{
+    color: blueviolet;
+}
